@@ -1,0 +1,22 @@
+﻿@{
+/**
+* Ryan Boldy
+* NETD
+* 12/12/2022
+* Lab 5
+*/
+
+    //This page is displayed to confirm that a password reset has been processed
+}
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<AppUser> SignInManager
+@{
+    ViewData["Title"] = "Password Recovery";
+}
+<h2>@ViewData["Title"]</h2>
+<div class="row">
+    <div class="col-md-4">
+            <h4>Your password rest request has been processed.</h4>
+            <h2>There is a reset link in the debug console.</h2>
+    </div>
+</div>

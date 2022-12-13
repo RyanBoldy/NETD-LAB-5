@@ -1,0 +1,337 @@
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\identityframework.exe
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\identityframework.deps.json
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\identityframework.runtimeconfig.json
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\identityframework.runtimeconfig.dev.json
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\identityframework.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\identityframework.pdb
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\identityframework.Views.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\identityframework.Views.pdb
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.csprojAssemblyReference.cache
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.AssemblyInfoInputs.cache
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.AssemblyInfo.cs
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.RazorAssemblyInfo.cache
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.RazorAssemblyInfo.cs
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.TagHelpers.input.cache
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.TagHelpers.output.cache
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.RazorCoreGenerate.cache
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.RazorTargetAssemblyInfo.cache
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.RazorTargetAssemblyInfo.cs
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.Views.pdb
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\staticwebassets\identityframework.StaticWebAssets.Manifest.cache
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\staticwebassets\identityframework.StaticWebAssets.xml
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.dll
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.pdb
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.genruntimeconfig.cache
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.csproj.CopyComplete
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.csproj.CoreCompileInputs.cache
+C:\Users\alaad\source\repos\identityframework\obj\Debug\netcoreapp3.1\identityframework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\identityframework.exe
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\identityframework.deps.json
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\identityframework.runtimeconfig.json
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\identityframework.runtimeconfig.dev.json
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\identityframework.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\identityframework.pdb
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\identityframework.Views.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\identityframework.Views.pdb
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.csproj.AssemblyReference.cache
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.AssemblyInfoInputs.cache
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.AssemblyInfo.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.csproj.CoreCompileInputs.cache
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.RazorAssemblyInfo.cache
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.RazorAssemblyInfo.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\staticwebassets\identityframework.StaticWebAssets.Manifest.cache
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\staticwebassets\identityframework.StaticWebAssets.xml
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\scopedcss\bundle\identityframework.styles.css
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.TagHelpers.input.cache
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.TagHelpers.output.cache
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.RazorCoreGenerate.cache
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.RazorTargetAssemblyInfo.cache
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.RazorTargetAssemblyInfo.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.Views.pdb
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.csproj.CopyComplete
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.dll
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.pdb
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\identityframework.genruntimeconfig.cache
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Buyers\Create.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Buyers\Delete.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Buyers\Details.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Buyers\Edit.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Buyers\Index.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Companies\Create.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Companies\Delete.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Companies\Details.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Companies\Edit.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Companies\Index.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Create.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Delete.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Details.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Edit.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Index.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\ryanb\Desktop\Durham-College-Work\2022 Fall\identityframework\obj\Debug\netcoreapp3.1\Razor\Views\Account\Confirm.cshtml.g.cs

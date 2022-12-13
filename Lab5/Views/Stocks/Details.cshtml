@@ -1,0 +1,52 @@
+﻿@{
+    /**
+    * Ryan Boldy
+    * NETD
+    * 12/12/2022
+    * Lab 5
+*/
+    //Allows the user to see the details of a stock entry.
+}
+
+@model Lab5.Models.Stock
+
+@{
+    ViewData["Title"] = "Stock Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Stock</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Companys)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Companys.CompanyId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Buyers)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Buyers.BuyerId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.BuyPrice)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BuyPrice)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.BuyDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BuyDate)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.StockId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
